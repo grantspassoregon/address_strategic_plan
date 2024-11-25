@@ -66,5 +66,5 @@
   - [SW West Harbeck Rd](./harbeck_rd.md)
   - [Acacia Ln](./acacia_ln.md)
   - [Dahlia Way](./dahlia_way.md)
-- Appendix
+- [Appendix](./appendix.md)
   - [Ord 281](./ord_281.md)
