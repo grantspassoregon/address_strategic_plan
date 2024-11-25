@@ -6,7 +6,7 @@ Finding: The City changed the name of the street from "North Main Street" to "Fo
 
 Evidence:
 
-- [Ord 281](./ord_281.md)
+- [Ord 281](ord_281.md)
 - Final Plat: [Roller Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31467/ROLLER-SUBDIVISION?bidId=) - "Foundry Street" 1965
 - Final Plat: [Habitat Haven Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31825/HABITAT-HAVEN-SUBDIVISION?bidId=) - 2001
 
