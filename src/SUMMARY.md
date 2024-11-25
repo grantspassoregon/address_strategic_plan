@@ -2,6 +2,9 @@
 
 - [Intro](./intro.md)
 - [Access Issues](./access_issues.md)
+- [Parity Issues](./parity_issues.md)
+- [Post Type Issues](./post_type_issues.md)
+- [Situs Issues](./situs_issues.md)
 - [Suffix Issues](./suffixes.md)
 - [Sequencing Issues](./sequencing.md)
 - [Directional Issues](./directional_issues.md)

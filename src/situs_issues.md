@@ -1,0 +1,41 @@
+# Issue: Inaccurate Parcel Situs Address
+
+Titles affected:
+
+- 1800 NW 6TH ST -> 1700 NW 6TH ST
+- 1806 NW 6TH ST -> 1802 NW 6TH ST
+- 815 STARVIEW LN -> 815 NE STARVIEW LN
+- 363 SW SHORT ST -> 363 SHORT ST
+  - [River Heights Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31900/RIVER-HEIGHTS-SUBDIVISION?bidId=)
+- 404 SW SHORT ST -> 404 SHORT ST
+  - [River Heights Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31900/RIVER-HEIGHTS-SUBDIVISION?bidId=)
+- 1799 SW WEBSTER RD -> 1799 WEBSTER RD
+  - [Rivers Edge Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31891/RIVERS-EDGE-SUBDIVISION?bidId=) - 1993
+  - [Griffith Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31669/GRIFFITH-SUBDIVISION?bidId=) - 1992
+  - [Wee Willow Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31643/WEE-WILLOW-SUBDIVISION?bidId=) - 1993
+  - [Rogue Willow Estates Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31733/ROGUE-WILLOW-ESTATES-SUBDIVISION?bidId=) - 1992
+  - [Garden Valley Estates Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31716/GARDEN-VALLEY-ESTATES-SUBDIVISION?bidId=) - 1994
+  - [Parkside Estates Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31666/PARKSIDE-ESTATES-SUBDIVISION?bidId=) - 2003
+- 1760 SW WEST HARBECK RD -> 1760 HARBECK RD
+  - [Park Ridge Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31945/PARK-RIDGE-SUBDIVISION?bidId=) - 1947 "Harbeck Road"
+  - [Harbeck Manor Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31529/HARBECK-MANOR-SUBDIVISION?bidId=) - 2006 "Harbeck Road"
+  - [Southridge Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31768/SOUTHRIDGE-SUBDIVISION?bidId=) - 1984 "Harbeck Road"
+  - [GI Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31933/GI-SUBDIVISION?bidId=) - 2006 "Harbeck Road"
+  - [Harbeck Heights Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31709/HARBECK-HEIGHTS-SUBDIVISION?bidId=) - 1996 "Harbeck Road"
+  - [Harbeck Place Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/32027/HARBECK-PLACE-1900SUBDIVISION?bidId=) - 1992 "Harbeck Road"
+  - [West Harbeck Place Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/32027/HARBECK-PLACE-1900SUBDIVISION?bidId=) - 2004 "West Harbeck Road"
+  - [Jeddelohs First Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31479/JEDDELOHS-FIRST-SUBDIVISION?bidId=) - "Harbeck Road" 1959
+  - [Hobarts Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31919/HOBARTS-SUBDIVISION?bidId=) - "Harbeck Road" 1962
+- 1443 SW LARKSPUR CT
+  - [Aranaway Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31960/ARANAWAY-SUBDIVISION?bidId=) - "Larkspur Court" 2000
+- 1309, 1317 & 1325 SW GEORGE TWEED BLVD -> 1309, 1317 & 1325 GEORGE TWEED BLVD
+  - [Nunnwood Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/32024/NUNNWOOD-SUBDIVISION?bidId=) - "George Tweed Boulevard" 2002
+  - [Speelman Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/32013/SPEELMAN-SUBDIVISION?bidId=) - "George Tweed Boulevard" 2004
+  - [Redwood Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31904/REDWOOD-SUBDIVISION?bidId=) - "George Tweed Boulevard" 2004
+  - [Redwood Subdivision 1st Addition](https://www.grantspassoregon.gov/DocumentCenter/View/31847/REDWOOD-SUBDIVISION-1ST-ADDITION?bidId=) - "George Tweed Boulevard" 2005
+  - [Redwood Subdivision 2nd Addition](https://www.grantspassoregon.gov/DocumentCenter/View/31440/REDWOOD-SUBDIVISION-2ND-ADDITION-?bidId=) - "George Tweed Boulevard" 2005
+  - [Prairie Glen Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31766/PRAIRE-GLEN-SUBDIVISION?bidId=) - "George Tweed Boulevard" 2005
+  - [La Monte Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31817/LA-MONTE-SUBDIVISION-PHASE-1?bidId=) - "George Tweed Boulevard" 2015
+  - [La Monte Subdivision Phase 2](https://www.grantspassoregon.gov/DocumentCenter/View/31587/LA-MONTE-SUBDIVISION-PHASE-2?bidId=) - "George Tweed Boulevard" 2016
+- 1241 WILLOW LN
+  - Parcel situs address for 360623DB000900, but address does not exist anymore.
