@@ -17,4 +17,4 @@ Options:
   - Addresses affected: 0
   - Titles affected: 1
 
-Recommendation: Add the "SW" directional designation to the official street name. This option minimizes disruption to residents and matches city preference for using directional designations. Grandview crosses Williams Hwy, the divisor between E and W directionals in the city. Using "SW" and "SE" helps to disambiguate between segments of Grandview.
+Recommendation: Add the "SW" directional designation to the official street name. This option minimizes disruption to residents and matches city preference for using directional designations. Grandview crosses Williams Hwy, the divisor between E and W directionals in the city. Using "SW" and "SE" helps to disambiguate between segments of Grandview. The numbers assigned to the SW portion would conflict with the 1000-block of the SW portion if it were interpreted as "Grandview Ave" along the entire length.
