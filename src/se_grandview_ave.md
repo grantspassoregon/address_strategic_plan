@@ -7,10 +7,10 @@ Finding: The majority of plats record the name as "Grandview Avenue", with no di
 Evidence:
 
 - [Sky Way Estates](https://www.grantspassoregon.gov/DocumentCenter/View/31874/SKY-WAY-ESTATES-SUBDIVISION?bidId=) - "Grandview Avenue" 1973
-- [Grandview Estates Subdivision] - "Grandview Avenue" 1974
+- [Grandview Estates Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31466/GRANDVIEW-ESTATES-SUBDIVISION?bidId=) - "Grandview Avenue" 1974
 - [Grandview Meadows Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31635/GRANDVIEW-MEADOWS-SUBDIVISION?bidId=) - "Grandview Avenue" 1976
 - [Gaffney Heights Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31606/GAFFNEY-HEIGHTS-SUBDIVISION?bidId=) - "Grandview Avenue" 1989
-- [Drury Estates Subdivision] - "Grandview Avenue" 1994
+- [Drury Estates Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31954/DRURY-ESTATES-SUBDIVISION?bidId=) - "Grandview Avenue" 1994
 - [Fruitwood Estates Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31525/FRUITWOOD-ESTATES-SUBDIVISION?bidId=) - "Grandview Avenue" 1994
 - [Harbeck Heights Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31709/HARBECK-HEIGHTS-SUBDIVISION?bidId=) - "G.I. Lane" 1996
   - [Assessment Map](https://alt.co.josephine.or.us/webapps/assessor/fetch-filedata.php?filetype=byaccount&identifier=R347432&inline=true) - "GI Lane"

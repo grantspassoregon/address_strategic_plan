@@ -7,7 +7,7 @@ Finding: This road was platted as "Sun View Place" in 1967 as part of the Canyon
 Evidence:
 
 - [Canyon Heights Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31773/CANYON-HEIGHTS-SUBDIVISION?bidId=) - "Sun View Place" 1967
-- [Forest Hills Subdivision Phase 1] - "Sun View Place" 2004
+- [Forest Hills Subdivision Phase 1](https://www.grantspassoregon.gov/DocumentCenter/View/31959/FOREST-HILLS-SUBDIVISION-PHASE-1?bidId=) - "Sun View Place" 2004
 - [Forest Hills Subdivision Phase 2](https://www.grantspassoregon.gov/DocumentCenter/View/31998/FOREST-HILLS-SUBDIVISION-PHASE-2?bidId=) - "N.W. Sun View Place" 2004
 - [Forest Hills Subdivision Phase 3](https://www.grantspassoregon.gov/DocumentCenter/View/31551/FOREST-HILLS-SUBDIVISION-PHASE-3?bidId=) - "N.W. Sun View Place" 2004
 

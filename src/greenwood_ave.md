@@ -6,7 +6,7 @@ Finding: Not sure if the street post type is "Drive" or "Avenue". No evidence of
 
 Evidence:
 
-- [HB Miller & Company New Addition] - "West Side Street" 1889
+- [HB Miller & Company New Addition](https://www.grantspassoregon.gov/DocumentCenter/View/31625/HB-MILLER-NEW-ADDITION?bidId=) - "West Side Street" 1889
 - [Westholm Park Addition](https://www.grantspassoregon.gov/DocumentCenter/View/31527/WEST-L-STREET-SUBDIVISION?bidId=) - "Greenwood Drive" 1911
 - [West L Street Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31527/WEST-L-STREET-SUBDIVISION?bidId=) - "Greenwood Drive" 1949
 - [Ballinger Subdivision](https://www.grantspassoregon.gov/DocumentCenter/View/31527/WEST-L-STREET-SUBDIVISION?bidId=) - "Greenwood Avenue" 1961

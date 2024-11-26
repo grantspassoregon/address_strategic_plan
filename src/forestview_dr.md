@@ -17,4 +17,4 @@ Options:
   - Addresses affected: 18
   - Titles affected: 17
 
-Recommendation: Change the addresses to match the official street name. This options minimizes disruption to residents.
+Recommendation: Change the addresses to match the official street name. This option minimizes disruption to residents.
